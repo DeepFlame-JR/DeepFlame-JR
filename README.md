@@ -48,9 +48,6 @@
 
 
 <hr>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DeepFlame-JR&show_icons=true&theme=radical) 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepFlame-JR&layout=compact&theme=dracula)](https://github.com/metleeha)
 
 
