@@ -39,10 +39,15 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
 
+#### Algorithm Solving💻
+[![LeetCode user deepflame](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdeepflame&logo=leetcode&logoColor=yellow)](https://leetcode.com/deepflame/)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wnsfuf0121)](https://solved.ac/wnsfuf0121)
+
 </div>
 
-<hr>
 
+<hr>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DeepFlame-JR&show_icons=true&theme=radical) 
 
@@ -50,7 +55,3 @@
 
 
 
-[![LeetCode user deepflame](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fdeepflame&logo=leetcode&logoColor=yellow)](https://leetcode.com/deepflame/)
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wnsfuf0121)](https://solved.ac/wnsfuf0121)
