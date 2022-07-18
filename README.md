@@ -2,17 +2,13 @@
 
 <div align=center>
 
-<a href="https://deep-flame.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-121D33?style=flat&logo=Blogger&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/deep-flame/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a>
-<br/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDeepFlame-JR&count_bg=%2379C83D&title_bg=%23515151&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<br/>
-
 ### Intruduce
 안녕하세요 🙌   
 
-데이터와 개발을 꾸준히 공부하는 이준렬입니다.   
+데이터와 개발을 꾸준히 공부하는 개발자 이준렬입니다.   
+
+<a href="https://deep-flame.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-121D33?style=flat&logo=Blogger&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/deep-flame/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a>
 
 <br/>
 
