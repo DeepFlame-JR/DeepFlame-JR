@@ -50,13 +50,5 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wnsfuf0121)](https://solved.ac/wnsfuf0121)
 
-  
-##### Top Languages
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepFlame-JR&layout=compact&theme=dracula)](https://github.com/metleeha)
-  
-</div>
-
-
 
 
